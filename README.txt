@@ -17,3 +17,6 @@ It can be executed as is.
 DPLL models a digital PLL
 
 DPLLwPhaseNoise includes phase noise in the VCO model
+
+PRDPLL models the phase-rotating PLL
+First execute PRDPLL_init.m, then you can run the Simulink model
